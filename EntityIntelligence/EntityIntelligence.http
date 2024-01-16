@@ -1,0 +1,6 @@
+@EntityIntelligence_HostAddress = http://localhost:5165
+
+GET {{EntityIntelligence_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
