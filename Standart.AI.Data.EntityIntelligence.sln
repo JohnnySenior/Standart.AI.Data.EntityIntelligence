@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityIntelligence", "Entit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityIntelligence.Tests.Unit", "EntityIntelligence.Tests.Unit\EntityIntelligence.Tests.Unit.csproj", "{1F2F2687-1479-4B03-8925-07C844514109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityIntelligence.Tests.Integration", "EntityIntelligence.Tests.Integration\EntityIntelligence.Tests.Integration.csproj", "{EB945EE5-05DC-4828-A43C-1C55EEB3EC21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F2F2687-1479-4B03-8925-07C844514109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F2F2687-1479-4B03-8925-07C844514109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F2F2687-1479-4B03-8925-07C844514109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB945EE5-05DC-4828-A43C-1C55EEB3EC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB945EE5-05DC-4828-A43C-1C55EEB3EC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB945EE5-05DC-4828-A43C-1C55EEB3EC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB945EE5-05DC-4828-A43C-1C55EEB3EC21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
