@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EntityIntelligence\EntityIntelligence.csproj" />
+  </ItemGroup>
+
 </Project>
